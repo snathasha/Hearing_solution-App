@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+body
+{
+	font-family: 'Inter', sans-serif;
+	font-weight: 400;
+	color: #2e384d;
+	letter-spacing: 0.1px;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	font-weight: 500;
+}
+
+h1
+{
+	font-size: 40px;
+	line-height: 48px;
+}
+
+h2
+{
+	font-size: 32px;
+	line-height: 38.4px;
+}
+
+h3
+{
+	font-size: 28px;
+	line-height: 33.6px;
+}
+
+h4
+{
+	font-size: 24px;
+	line-height: 28.8px;
+}
+
+h5
+{
+	font-size: 20px;
+	line-height: 24px;
+}
+
+h6
+{
+	font-size: 16px;
+	line-height: 25.6px;
+}
+
+p
+{
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 25.6px;
+}
+
+strong, b
+{
+	font-weight: 600;
+}
+
+.p-large, .p-normal, .p-small, .p-detail
+{
+	letter-spacing: 0.1px;
+}
+
+.p-large
+{
+	font-size: 18px;
+	line-height: 24.8px;
+}
+
+.p-normal
+{
+	font-size: 16x;
+	line-height: 24.8px;
+}
+
+.p-small
+{
+	font-size: 14px;
+	line-height: 23px;
+}
+
+.p-detail
+{
+	font-size: 13px;
+	line-height: 21px;
+}
+
+.no-td-space
+{
+	padding: 0;
+	margin: 0;
+}
+
+.text-dark-grey
+{
+	color: #4e5d78;
+}
+
+.label
+{
+	font-size: 14px;
+	font-weight: 500;
+}
+
+.title
+{
+	font-weight: 500px;
+	letter-spacing: 0.1px;
+	padding: 2px 0;
+}
+
+ul.footer-links
+{
+	padding: 0;
+	margin: 0;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0;
+	padding-right: 0;
+	list-style: none;
+}
+
+ul.footer-links li
+{
+	display: inline;
+	padding: 0;
+	margin: 0;
+}
+
+ul.footer-links li > a
+{
+	color: #ffffff;
+	padding: 2px 10px;
+	text-decoration: none;
+	font-size: 1rem;
+}
+
